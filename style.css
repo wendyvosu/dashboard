@@ -1,0 +1,15 @@
+html {
+    background-color: #918f8a;
+}
+
+.container {
+    display: flex;
+    text-indent: 88px;
+    margin-top: 70px;
+    margin-left: 400px;
+   
+    height: 400px;
+    width: 320px;
+    background-color: #302f2b;
+    
+}

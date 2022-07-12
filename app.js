@@ -1,6 +1,6 @@
 const Reviews = () => {
     return (
-        <div>
+        <div className = "container">
             <h3>Reviews</h3>
             <h4>1,281</h4>
         </div>
@@ -9,7 +9,7 @@ const Reviews = () => {
 
 const AverageRating = () => {
     return (
-        <div>
+        <div className = "container">
             <h3>Average Rating</h3>
             <h4>4.6</h4>
         </div>
@@ -18,7 +18,7 @@ const AverageRating = () => {
 
 const SentimentAnalysis = () => {
     return (
-        <div>
+        <div className = "container">
             <h3>Sentiment Analysis</h3>
             <ul>
                 <li>960</li>
@@ -31,7 +31,7 @@ const SentimentAnalysis = () => {
 
 const WebsiteVisitors = () => {
     return (
-        <div>
+        <div className = "container">
             <h3>Website Visitors</h3>
             <h4>821</h4>
         </div>
